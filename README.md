@@ -15,10 +15,10 @@ I build modern web applications, AI agents and automation solutions that help bu
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Agents-0B1220?style=for-the-badge&logo=openai&logoColor=3B82F6" />
-  <img src="https://img.shields.io/badge/SaaS%20Platforms-0B1220?style=for-the-badge&logo=vercel&logoColor=3B82F6" />
-  <img src="https://img.shields.io/badge/WhatsApp%20Automation-0B1220?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
-  <img src="https://img.shields.io/badge/Modern%20Front--end-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logo=openai&logoColor=3B82F6"/>
+  <img src="https://img.shields.io/badge/SaaS-111827?style=for-the-badge&logo=vercel&logoColor=3B82F6"/>
+  <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=whatsapp&logoColor=3B82F6"/>
+  <img src="https://img.shields.io/badge/Front--end-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 <p align="center">
