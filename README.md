@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/BANNER.png" alt="Gestalize Systems Banner" width="100%">
+  <img src="./BANNER.png" alt="Gestalize Systems Banner" width="100%">
 </p>
 
 <h1 align="center">Gestalize Systems</h1>
