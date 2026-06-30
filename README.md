@@ -9,7 +9,20 @@ Building intelligent software for modern businesses.
 </p>
 
 <p align="center">
-  <a href="https://gestalizesystems.com.br">Website</a> •
-  <a href="https://linkedin.com/company/gestalizesystems">LinkedIn</a> •
-  <a href="https://instagram.com/gestalizesystems">Instagram</a>
+
+<a href="https://gestalizesystems.com.br">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge">
+
+</a>
+
+<a href="https://instagram.com/gestalizesystems">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge">
+
+</a>
+
+<a href="https://linkedin.com/company/gestalizesystems">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge">
+
+</a>
+
 </p>
