@@ -15,10 +15,10 @@ Building software that automates businesses through modern web technologies and 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logo=openai&logoColor=3B82F6"/>
-  <img src="https://img.shields.io/badge/SaaS-111827?style=for-the-badge&logo=vercel&logoColor=3B82F6"/>
-  <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=whatsapp&logoColor=3B82F6"/>
-  <img src="https://img.shields.io/badge/Front--end-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SaaS-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Front--end-111827?style=for-the-badge"/>
 </p>
 
 ## Featured Projects
