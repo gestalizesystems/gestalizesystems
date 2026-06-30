@@ -31,7 +31,7 @@ I build modern web applications, AI agents and automation solutions that help bu
 ### Gestalize Finance
 
 A financial management platform focused on automation, performance and scalability.
-
+<br>
 </td>
 
 <td width="33%" align="center" valign="top">
@@ -39,7 +39,7 @@ A financial management platform focused on automation, performance and scalabili
 ### Videira Clinic
 
 A healthcare room reservation system designed for professionals, simplifying scheduling and resource management.
-
+<br>
 </td>
 
 <td width="33%" align="center" valign="top">
@@ -47,7 +47,7 @@ A healthcare room reservation system designed for professionals, simplifying sch
 ### Lecoland Bot
 
 An AI-powered WhatsApp assistant that automates conversations, customer support and lead generation.
-
+<br>
 </td>
 
 </tr>
