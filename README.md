@@ -2,8 +2,14 @@
   <img src="./assets/banner.png" alt="Gestalize Systems Banner" width="100%">
 </p>
 
-Gestalize Systems
+<h1 align="center">Gestalize Systems</h1>
 
+<p align="center">
 Building intelligent software for modern businesses.
+</p>
 
-We develop scalable SaaS platforms, AI agents, WhatsApp automation, management systems and custom software focused on performance, automation and user experience.
+<p align="center">
+  <a href="https://gestalizesystems.com.br">Website</a> •
+  <a href="https://linkedin.com/company/gestalizesystems">LinkedIn</a> •
+  <a href="https://instagram.com/gestalizesystems">Instagram</a>
+</p>
