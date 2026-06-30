@@ -2,14 +2,18 @@
   <img src="./BANNER.png" alt="Gestalize Systems Banner" width="100%">
 </p>
 
-<h1 align="center">Gestalize Systems</h1>
+<div align="center">
+
+# 👋 Hi, I'm Natasha Lopes
+
+### Founder @ Gestalize Systems
+
+>I create software that automates businesses.
+
+</div>
 
 <p align="center">
-Building intelligent software for modern businesses.
-</p>
-
-<p align="center">
-We build SaaS platforms, AI agents, WhatsApp automation and custom business solutions.
+Building modern SaaS platforms, AI agents, WhatsApp automation and custom business solutions.
 </p>
 
 <p align="center">
