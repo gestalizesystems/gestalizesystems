@@ -30,7 +30,7 @@ Building software that automates businesses through modern web technologies and 
 
 <h3>
 <a href="https://github.com/gestalizesystems/gestalize-finance">
-###Gestalize Finance
+Gestalize Finance
 </a>
 </h3>
 
@@ -40,7 +40,11 @@ A financial management platform focused on automation, performance and scalabili
 
 <td width="33%" align="center" valign="top">
 
-### Videira Clinic
+<h3>
+<a href="https://github.com/gestalizesystems/videira-clinic">
+Videira Clinic
+</a>
+</h3>
 
 A SaaS platform for healthcare professionals to reserve consultation rooms and manage bookings efficiently.
 
@@ -48,7 +52,11 @@ A SaaS platform for healthcare professionals to reserve consultation rooms and m
 
 <td width="33%" align="center" valign="top">
 
-### Lecoland Bot
+<h3>
+<a href="https://github.com/gestalizesystems/lecoland-bot">
+Gestalize Bots
+</a>
+</h3>
 
 An AI-powered WhatsApp assistant that automates conversations, customer support and lead generation.
 
