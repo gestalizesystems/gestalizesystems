@@ -4,17 +4,15 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Natasha Lopes
+<h1>👋 Hi, I'm Natasha Lopes</h1>
 
-### Founder @ Gestalize Systems
+<h3>Front-end Developer • Founder @ Gestalize Systems</h3>
 
->I create software that automates businesses.
+<p>
+I build modern web applications, AI agents and automation solutions that help businesses grow.
+</p>
 
 </div>
-
-<p align="center">
-Building modern SaaS platforms, AI agents, WhatsApp automation and custom business solutions.
-</p>
 
 <p align="center">
 
