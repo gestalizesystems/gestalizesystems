@@ -37,3 +37,8 @@ I build modern web applications, AI agents and automation solutions that help bu
   <a href="https://linkedin.com/company/gestalizesystems">LinkedIn</a> •
   <a href="https://instagram.com/gestalizesystems">Instagram</a>
 </p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
