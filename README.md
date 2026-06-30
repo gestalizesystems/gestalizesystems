@@ -28,18 +28,22 @@ Building software that automates businesses through modern web technologies and 
 
 <td width="33%" align="center" valign="top">
 
-### Gestalize Finance
+<h3>
+<a href="https://github.com/gestalizesystems/gestalize-finance">
+###Gestalize Finance
+</a>
+</h3>
 
 A financial management platform focused on automation, performance and scalability.
-<br>
+
 </td>
 
 <td width="33%" align="center" valign="top">
 
 ### Videira Clinic
 
-A healthcare room reservation system designed for professionals, simplifying scheduling and resource management.
-<br>
+A SaaS platform for healthcare professionals to reserve consultation rooms and manage bookings efficiently.
+
 </td>
 
 <td width="33%" align="center" valign="top">
@@ -47,7 +51,7 @@ A healthcare room reservation system designed for professionals, simplifying sch
 ### Lecoland Bot
 
 An AI-powered WhatsApp assistant that automates conversations, customer support and lead generation.
-<br>
+
 </td>
 
 </tr>
