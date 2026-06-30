@@ -4,12 +4,12 @@
 
 <div align="center">
 
-<h1>👋 Hi, I'm Natasha Lopes</h1>
+<h1>I'm Natasha Lopes</h1>
 
-<h3>Front-end Developer • Founder @ Gestalize Systems</h3>
+<h3>Front-end Developer | Founder @ Gestalize Systems</h3>
 
 <p>
-I build modern web applications, AI agents and automation solutions that help businesses grow.
+Building software that automates businesses through modern web technologies and AI.
 </p>
 
 <br>
