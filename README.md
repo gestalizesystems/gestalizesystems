@@ -12,6 +12,8 @@
 I build modern web applications, AI agents and automation solutions that help businesses grow.
 </p>
 
+<br>
+
 </div>
 
 <p align="center">
