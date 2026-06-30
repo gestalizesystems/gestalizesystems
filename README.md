@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h1>I'm Natasha Lopes</h1>
+<h1>I'm Nathasha Lopes</h1>
 
 <h3>Front-end Developer | Founder @ Gestalize Systems</h3>
 
