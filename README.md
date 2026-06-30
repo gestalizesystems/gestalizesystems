@@ -6,6 +6,7 @@
 
 <p align="center">
 Building intelligent software for modern businesses.
+
 We build SaaS platforms, AI agents, WhatsApp automation and custom business solutions.
 
 </p>
