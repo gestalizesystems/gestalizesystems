@@ -42,7 +42,7 @@ A financial management platform focused on automation, performance and scalabili
 
 <h3>
 <a href="https://github.com/gestalizesystems/videira-clinic">
-Videira Clinic
+Gestalize Care
 </a>
 </h3>
 
