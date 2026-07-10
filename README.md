@@ -66,7 +66,7 @@ An AI-powered WhatsApp assistant that automates conversations, customer support 
 </table>
 
 <p align="center">
-  <a href="https://gestalizesystems.com.br">Website</a> •
+  <a href="https://www.gestalizesystems.com.br/">Website</a> •
   <a href="https://linkedin.com/company/gestalizesystems">LinkedIn</a> •
   <a href="https://instagram.com/gestalizesystems">Instagram</a>
 </p>
