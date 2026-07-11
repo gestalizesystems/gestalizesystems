@@ -73,4 +73,5 @@ An AI-powered WhatsApp assistant that automates conversations, customer support 
 
 <br>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="nathasha-lopes-gestalize-systems" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/nathasha-lopes-a14443421?trk=profile-badge">Nathasha Lopes</a></div>
+              
