@@ -71,6 +71,8 @@ An AI-powered WhatsApp assistant that automates conversations, customer support 
 </tr>
 </table>
 
+<br>
+
 <p align="center">
   <a href="https://gestalizesystems.com.br">
     <img src="https://img.shields.io/badge/Website-Gestalize%20Systems-0055FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
