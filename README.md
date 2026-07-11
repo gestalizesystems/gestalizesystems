@@ -71,3 +71,6 @@ An AI-powered WhatsApp assistant that automates conversations, customer support 
   <a href="https://instagram.com/gestalizesystems">Instagram</a>
 </p>
 
+<br>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
