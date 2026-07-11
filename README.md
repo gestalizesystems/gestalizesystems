@@ -66,16 +66,14 @@ An AI-powered WhatsApp assistant that automates conversations, customer support 
 </table>
 
 <p align="center">
-  <a href="https://www.gestalizesystems.com.br/">Website</a> •
-  <a href="https://linkedin.com/company/gestalizesystems">LinkedIn</a> •
-  <a href="https://instagram.com/gestalizesystems">Instagram</a>
-</p>
-
-<br>
-
-<p align="center">
+  <a href="https://gestalizesystems.com.br">
+    <img src="https://img.shields.io/badge/Website-Gestalize%20Systems-0055FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/nathasha-lopes-gestalize-systems/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nathasha%20Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Nathasha%20Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/gestalizesystems">
+    <img src="https://img.shields.io/badge/Instagram-@gestalizesystems-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
               
