@@ -35,7 +35,7 @@ Gestalize Finance
 </h3>
 
 A financial management platform focused on automation, performance and scalability.
-
+<br>
 </td>
 
 <td width="33%" align="center" valign="top">
@@ -47,7 +47,7 @@ Gestalize Care
 </h3>
 
 A SaaS platform for healthcare professionals to reserve consultation rooms and manage bookings efficiently.
-
+<br>
 </td>
 
 <td width="33%" align="center" valign="top">
@@ -59,7 +59,7 @@ Gestalize Bots
 </h3>
 
 An AI-powered WhatsApp assistant that automates conversations, customer support and lead generation.
-
+<br>
 </td>
 
 </tr>
